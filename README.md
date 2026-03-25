@@ -22,8 +22,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilioleon04&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioleon04&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emilioleon0924&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioleon0924&layout=compact" alt="Top Languages" />
 </p>
 
 <hr>
