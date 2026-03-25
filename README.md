@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!n</h1>
+<h1 align="center">Hello there!</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/WcsxzKMRNv8AAAAj/star-wars-robot.gif" width="150"/>
