@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
 <p align="center">
-  <img src="[https://media.tenor.com/WcsxzKMRNv8AAAAj/star-wars-robot.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhubXByMmF2MnJqM3BzczNpM2g0ZTFhY216cXF5aDQzMXJ5bGp2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)" width="150"/>
+  <img src="https://media.tenor.com/WcsxzKMRNv8AAAAj/star-wars-robot.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhubXByMmF2MnJqM3BzczNpM2g0ZTFhY216cXF5aDQzMXJ5bGp2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="150"/>
 </p>
 
 
