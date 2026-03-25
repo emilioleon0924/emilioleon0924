@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hello there!n</h1>
 
-<!--
-**emilioleon0924/emilioleon0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/WcsxzKMRNv8AAAAj/star-wars-robot.gif" width="150"/>
+</p>
 
-Here are some ideas to get you started:
+<h2>About Me</h2>
+<ul>
+  <li>🔧 <strong>Main Focus:</strong> Backend development (FastAPI, Python, Java)</li>
+  <li>🎨 <strong>Also skilled in:</strong> UI/UX Design using Figma & Photoshop</li>
+  <li>✨ <strong>Mindset:</strong> Creative, determined and relentless in solving challenges</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>🛠 Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,typescript,figma,ps" height="40"/>
+</div>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emilioleon04&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioleon04&layout=compact" alt="Top Languages" />
+</p>
+
+<hr>
+
+<h2>🤝 Open to Collaborate</h2>
+<p>I love working on innovative ideas, hackathon projects, or backend/frontend challenges.<br>
+<strong>If you have an exciting project or want to build something impactful, feel free to reach out!</strong></p>
+
+<hr>
+
+<p align="center">Thank you for visiting my profile! Feel free to ⭐ repositories you find interesting or reach out for collaboration.</p>
